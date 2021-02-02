@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kido\'s Learning</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="vowels">Vowels</string>
+    <string name="numbers">Numbers</string>
+    <string name="months">Month\'s names</string>
+    <string name="weeks">Week\'s</string>
+    <string name="family_members">Family</string>
+    <string name="Colours">Colours</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

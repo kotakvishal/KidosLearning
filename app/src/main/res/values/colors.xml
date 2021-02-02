@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#05000C</color>
+    <color name="colorPrimaryDark">#070707</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bg_actionbar">#121211</color>
+    <color name="font_actionbar">#F6E6BF</color>
+    <color name="tane">#FFF7DA</color>
+    <color name="placeholder">#F3872E</color>
+    <color name="AlphabetColor">#F87070</color>
+    <color name="NumberColor">#B24D92DF</color>
+    <color name="FamilyMemberColor">#877D22</color>
+    <color name="WeekNameColor">#A6A55805</color>
+    <color name="ColorColor">#30BAAC</color>
+</resources>

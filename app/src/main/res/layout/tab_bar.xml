@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_actionbar">
+
+    <TextView
+        android:id="@+id/alphabet"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/alphabet"
+        android:textColor="@color/font_actionbar"
+        android:textSize="14sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/numbers"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/numbers"
+        android:textColor="@color/font_actionbar"
+        android:textSize="14sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/familymembers"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/family_members"
+        android:textColor="@color/font_actionbar"
+        android:textSize="14sp"
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:id="@+id/Weeksname"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/weeks"
+        android:textColor="@color/font_actionbar"
+        android:textSize="14sp"
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:id="@+id/colors"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/Colours"
+        android:textColor="@color/font_actionbar"
+        android:textSize="14sp"
+        android:textStyle="bold"></TextView>
+</LinearLayout>
