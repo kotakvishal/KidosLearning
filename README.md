@@ -16,5 +16,8 @@ This application is used to make it easy and entertaining for the kids to strat 
 * The weeks coloum consists of the name of weeks along with their pronounciation.
 * The colour coloum consists of some basic colour along with their prononciation and example.
 
+## Source for image assets
+https://github.com/udacity/ud839_Miwok/tree/image_assets
+
 ## Built for
 Android phones and Tablets (Jelly Bean or above).
